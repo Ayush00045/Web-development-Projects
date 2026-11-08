@@ -21,7 +21,7 @@ Features
 Live Demo
 
 Visit the live webpage:
-https://ayush00045.github.io/HTML-Project-1-Chocolate-Cake-Recipe-Page/
+https://ayush00045.github.io/Web-development-Projects/HTML-Project-01/
 
 Author
 
