@@ -4,7 +4,7 @@ A simple movie webpage based on *Inception (2010)*, created using HTML5.
 
 ## Live Demo
 
-[View Live Website](https://ayush00045.github.io/HTML-Project-2-Inception-Movie-Page/)
+[View Live Website](https://ayush00045.github.io/Web-development-Projects/HTML-Project-02/)
 
 ## About
 
